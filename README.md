@@ -1,10 +1,10 @@
 # @wizwiz/tiny
 npm basic package
 
-##### Install
+### Install
 $ npm install @wizwiz/tiny
 
-##### Usage
+### Usage
 const tiny = require("@wizwiz/tiny");
 
 const newstr = tiny("So much space!");
