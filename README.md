@@ -1,0 +1,2 @@
+# basicnpm
+npm basic package
